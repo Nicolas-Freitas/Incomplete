@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body {
+    font-size: 1em;
+}
+
+h2 {
+    color: white;
+}
+
+footer{
+    display: flex;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;;
+    justify-content: space-around;
+}
+
+.section-container-1 > ul{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.section-container-1 > a{
+    color: white;
+}
+.section-container-2 > ul{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+.section-container-2 > ul > a {
+    color: white;
+}
+
+.section-container-3 > ul{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
